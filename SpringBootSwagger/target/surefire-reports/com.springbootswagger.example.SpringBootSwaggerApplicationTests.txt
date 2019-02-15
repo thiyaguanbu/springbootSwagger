@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.springbootswagger.example.SpringBootSwaggerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.84 s - in com.springbootswagger.example.SpringBootSwaggerApplicationTests
